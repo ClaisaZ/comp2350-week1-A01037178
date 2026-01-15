@@ -5,8 +5,20 @@
 		"start": "node index.js"
 	},
 	"dependencies": {
-		"express": "^4.21.2"
+		"express": "^4.22.1"
 	},
 	"author": "Patrick",
-	"license": "ISC"
+	"license": "ISC",
+	"description": "",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ClaisaZ/lab1-database.git"
+	},
+	"keywords": [],
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/ClaisaZ/lab1-database/issues"
+	},
+	"homepage": "https://github.com/ClaisaZ/lab1-database#readme"
 }
